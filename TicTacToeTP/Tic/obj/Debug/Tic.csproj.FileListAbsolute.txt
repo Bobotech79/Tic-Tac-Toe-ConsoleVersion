@@ -1,0 +1,12 @@
+C:\Users\Acer-07\Source\Repos\TicTacToeTP\Tic\bin\Debug\Tic.exe.config
+C:\Users\Acer-07\Source\Repos\TicTacToeTP\Tic\bin\Debug\Tic.exe
+C:\Users\Acer-07\Source\Repos\TicTacToeTP\Tic\bin\Debug\Tic.pdb
+C:\Users\Acer-07\Source\Repos\TicTacToeTP\Tic\obj\Debug\Tic.csprojResolveAssemblyReference.cache
+C:\Users\Acer-07\Source\Repos\TicTacToeTP\Tic\obj\Debug\Tic.exe
+C:\Users\Acer-07\Source\Repos\TicTacToeTP\Tic\obj\Debug\Tic.pdb
+C:\Users\polis\Desktop\Project_Lexicon\TIC_Tac_Toe\TicTacToeTP\Tic\bin\Debug\Tic.exe.config
+C:\Users\polis\Desktop\Project_Lexicon\TIC_Tac_Toe\TicTacToeTP\Tic\obj\Debug\Tic.exe
+C:\Users\polis\Desktop\Project_Lexicon\TIC_Tac_Toe\TicTacToeTP\Tic\obj\Debug\Tic.pdb
+C:\Users\polis\Desktop\Project_Lexicon\TIC_Tac_Toe\TicTacToeTP\Tic\bin\Debug\Tic.exe
+C:\Users\polis\Desktop\Project_Lexicon\TIC_Tac_Toe\TicTacToeTP\Tic\bin\Debug\Tic.pdb
+C:\Users\polis\Desktop\Project_Lexicon\TIC_Tac_Toe\TicTacToeTP\Tic\obj\Debug\Tic.csprojResolveAssemblyReference.cache
